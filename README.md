@@ -1,3 +1,3 @@
-# Kalaheo-Robotics-Code
+# Robotics-Code
 
-Code for the Kalaheo High robotics team
+This is code for my schools robotics team
